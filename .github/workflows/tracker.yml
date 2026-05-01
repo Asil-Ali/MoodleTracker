@@ -1,0 +1,40 @@
+name: Moodle Tracker
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Run tracker
+        env:
+          MOODLE_USER: ${{ secrets.MOODLE_USER }}
+          MOODLE_PASS: ${{ secrets.MOODLE_PASS }}
+          TG_TOKEN:    ${{ secrets.TG_TOKEN }}
+          TG_CHAT_ID:  ${{ secrets.TG_CHAT_ID }}
+        run: python main.py
+
+      - name: Commit state.json
+        run: |
+          git config user.name "Moodle Tracker Bot"
+          git config user.email "bot@moodle-tracker.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "update state"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
