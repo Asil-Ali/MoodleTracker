@@ -1,5 +1,5 @@
 """
-main.py ← شغّلي هذا الملف فقط
+main.py ← .شغّلي هذا الملف فقط
 """
 import sys
 from datetime import datetime
