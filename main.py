@@ -1,6 +1,9 @@
+"""
+main.py ← شغّلي هذا الملف فقط
+"""
 import sys
 from datetime import datetime
-from config   import MOODLE_BASE_URL, STUDENT_ID, PASSWORD, TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, CHECK_INTERVAL_HOURS
+from config   import MOODLE_BASE_URL, STUDENT_ID, PASSWORD, TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, GROQ_API_KEY
 from scraper  import MoodleScraper
 from notifier import TelegramNotifier
 from state    import load, save, find_new, build_state
@@ -27,12 +30,14 @@ def run(scraper, notifier):
         data = scraper.get_course_content(c["id"], c["name"])
         all_data.append(data)
 
-    old = load()
+    old     = load()
     new_map = {}
     for d in all_data:
         n = find_new(d, old)
         if n:
             new_map[d["course_id"]] = n
+            total = sum(len(v) for v in n.values())
+            print(f"    🔔 {total} جديد في: {d['course_name']}")
 
     notifier.send_full_report(all_data, new_map)
     save(build_state(all_data))
@@ -45,7 +50,7 @@ def main():
     print("="*50)
 
     scraper  = MoodleScraper(MOODLE_BASE_URL, STUDENT_ID, PASSWORD)
-    notifier = TelegramNotifier(TELEGRAM_TOKEN, TELEGRAM_CHAT_ID)
+    notifier = TelegramNotifier(TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, GROQ_API_KEY)
 
     if "--test" in sys.argv:
         print("✅ يعمل!" if notifier.send_test() else "❌ فشل")
