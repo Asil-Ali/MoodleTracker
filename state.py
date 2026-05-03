@@ -1,6 +1,3 @@
-"""
-state.py — يحفظ ما شوفناه ويكتشف الجديد
-"""
 import json, os
 from config import STATE_FILE
 
@@ -23,13 +20,13 @@ def save(state: dict):
 
 
 def find_new(course: dict, old: dict) -> dict:
-    """يرجع العناصر الجديدة فقط لكل فئة"""
     cid = course["course_id"]
     old_course = old.get(cid, {})
     new = {}
     for cat in TRACKED:
-        old_ids = set(old_course.get(cat, []))
-        fresh   = [i for i in course.get(cat, []) if i["id"] not in old_ids]
+        old_ids = set(i["id"] if isinstance(i, dict) else i
+                      for i in old_course.get(cat, []))
+        fresh = [i for i in course.get(cat, []) if i["id"] not in old_ids]
         if fresh:
             new[cat] = fresh
     return new
@@ -40,7 +37,9 @@ def build_state(all_courses: list[dict]) -> dict:
     for c in all_courses:
         cid = c["course_id"]
         state[cid] = {
-            cat: [i["id"] for i in c.get(cat, [])]
-            for cat in TRACKED
+            "course_name": c.get("course_name", ""),
+            "url":         c.get("url", ""),
         }
+        for cat in TRACKED:
+            state[cid][cat] = c.get(cat, [])
     return state
