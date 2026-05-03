@@ -90,6 +90,7 @@
     "quizzes": [],
     "assignments": [],
     "resources": [
+      "w_55637",
       "w_38255",
       "w_38320",
       "w_38322",
@@ -109,6 +110,7 @@
     ],
     "wikis": [],
     "weekly_items": [
+      "w_55631",
       "w_51985"
     ],
     "others": []
@@ -182,7 +184,9 @@
   },
   "2153": {
     "quizzes": [],
-    "assignments": [],
+    "assignments": [
+      "d_55650"
+    ],
     "resources": [
       "w_37422",
       "w_37412",
