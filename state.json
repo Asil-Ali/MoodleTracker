@@ -1,221 +1,885 @@
 {
   "2363": {
+    "course_name": "التكنولوجيا في المجال الرياضي د.عماد محمد حماد",
+    "url": "https://moodle.alaqsa.edu.ps/course/view.php?id=2363",
     "quizzes": [
-      "q_51105"
+      {
+        "id": "q_51105",
+        "name": "اختبار قصير",
+        "url": "https://moodle.alaqsa.edu.ps/mod/quiz/view.php?id=51105",
+        "date": "الخميس, 7 مايو, 10:59 PM",
+        "grade": "-"
+      }
     ],
     "assignments": [],
     "resources": [
-      "w_49352",
-      "w_39930",
-      "w_39934",
-      "w_39941",
-      "w_45793",
-      "w_45799",
-      "w_52941",
-      "w_55419"
+      {
+        "id": "w_49352",
+        "name": "الكتابرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=49352",
+        "type": "url"
+      },
+      {
+        "id": "w_39930",
+        "name": "المحاضرة الأولىرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=39930",
+        "type": "url"
+      },
+      {
+        "id": "w_39934",
+        "name": "المحاضرة الثانيةرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=39934",
+        "type": "url"
+      },
+      {
+        "id": "w_39941",
+        "name": "المحاضرة الثالثةرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=39941",
+        "type": "url"
+      },
+      {
+        "id": "w_45793",
+        "name": "المحاضرة الرابعةرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=45793",
+        "type": "url"
+      },
+      {
+        "id": "w_45799",
+        "name": "المحاضرة الخامسةرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=45799",
+        "type": "url"
+      },
+      {
+        "id": "w_52941",
+        "name": "المحاضرة السادسةرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=52941",
+        "type": "url"
+      },
+      {
+        "id": "w_55419",
+        "name": "المحاضرة السابعةرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=55419",
+        "type": "url"
+      }
     ],
     "forums": [
-      "w_2363",
-      "w_36481"
+      {
+        "id": "w_2363",
+        "name": "بحث متقدم",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/search.php?id=2363",
+        "type": "forum"
+      },
+      {
+        "id": "w_36481",
+        "name": "الإعلاناتمنتدى",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/view.php?id=36481",
+        "type": "forum"
+      }
     ],
     "wikis": [],
     "weekly_items": [],
     "others": []
   },
   "2834": {
+    "course_name": "برمجة تطبيقات الهواتف النقالة 2 أ.ابراهيم اسامة كوارع",
+    "url": "https://moodle.alaqsa.edu.ps/course/view.php?id=2834",
     "quizzes": [],
     "assignments": [
-      "d_51201"
+      {
+        "id": "d_51201",
+        "name": "Assignment 1 - Onboarding Screens",
+        "url": "https://moodle.alaqsa.edu.ps/mod/assign/view.php?id=51201",
+        "date": "الجمعة, 8 مايو, 11:59 PM",
+        "status": "لا تسليم"
+      }
     ],
     "resources": [
-      "w_43975",
-      "w_44032",
-      "w_44035",
-      "w_44043",
-      "w_44047",
-      "w_44053",
-      "w_44124",
-      "w_47585",
-      "w_47588",
-      "w_47590",
-      "w_47592",
-      "w_47596",
-      "w_47597",
-      "w_47586",
-      "w_47589",
-      "w_47591",
-      "w_47593",
-      "w_47598",
-      "w_51215",
-      "w_51216",
-      "w_51220",
-      "w_51224",
-      "w_51227",
-      "w_53655",
-      "w_53657",
-      "w_53659",
-      "w_53660",
-      "w_53661"
+      {
+        "id": "w_43975",
+        "name": "WhatsApp Group - Femaleرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=43975",
+        "type": "url"
+      },
+      {
+        "id": "w_44032",
+        "name": "GitHub Repositoryرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=44032",
+        "type": "url"
+      },
+      {
+        "id": "w_44035",
+        "name": "Course Timelineرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=44035",
+        "type": "url"
+      },
+      {
+        "id": "w_44043",
+        "name": "ML-0-Course Syllabus.pdfرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=44043",
+        "type": "url"
+      },
+      {
+        "id": "w_44047",
+        "name": "ML-0-Course Syllabus.mp4رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=44047",
+        "type": "url"
+      },
+      {
+        "id": "w_44053",
+        "name": "Download Android Studioرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=44053",
+        "type": "url"
+      },
+      {
+        "id": "w_44124",
+        "name": "How to Install Android Studioرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=44124",
+        "type": "url"
+      },
+      {
+        "id": "w_47585",
+        "name": "MOB2-SL-1.1-Fragments.pdfرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47585",
+        "type": "url"
+      },
+      {
+        "id": "w_47588",
+        "name": "MOB2-CV-1.1-Fragments.mp4رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47588",
+        "type": "url"
+      },
+      {
+        "id": "w_47590",
+        "name": "MOB2-PR-1.1-Fragments.pdfرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47590",
+        "type": "url"
+      },
+      {
+        "id": "w_47592",
+        "name": "MOB2-PV-1.1-Fragments.mp4رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47592",
+        "type": "url"
+      },
+      {
+        "id": "w_47596",
+        "name": "MOB2-SC-1.1-FragmentExample1رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47596",
+        "type": "url"
+      },
+      {
+        "id": "w_47597",
+        "name": "MOB2-SC-1.1-FragmentExample2رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47597",
+        "type": "url"
+      },
+      {
+        "id": "w_47586",
+        "name": "MOB2-SL-1.2-Fragment lifecycle and communications.pdfرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47586",
+        "type": "url"
+      },
+      {
+        "id": "w_47589",
+        "name": "MOB2-CV-1.2-Fragment Communication.mp4رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47589",
+        "type": "url"
+      },
+      {
+        "id": "w_47591",
+        "name": "MOB2-PR-1.2-Fragment communication.pdfرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47591",
+        "type": "url"
+      },
+      {
+        "id": "w_47593",
+        "name": "MOB2-PV-1.2-Fragment Communication.mp4رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47593",
+        "type": "url"
+      },
+      {
+        "id": "w_47598",
+        "name": "MOB2-SC-1.2-FragmentCommunicateرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47598",
+        "type": "url"
+      },
+      {
+        "id": "w_51215",
+        "name": "MOB2-SL-2.1-Menus.pdfرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51215",
+        "type": "url"
+      },
+      {
+        "id": "w_51216",
+        "name": "MOB2-CV-2.1-Menus.mp4رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51216",
+        "type": "url"
+      },
+      {
+        "id": "w_51220",
+        "name": "MOB2-PR-2.1-Menus.pdfرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51220",
+        "type": "url"
+      },
+      {
+        "id": "w_51224",
+        "name": "MOB2-PV-2.1-Menus.mp4رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51224",
+        "type": "url"
+      },
+      {
+        "id": "w_51227",
+        "name": "MOB2-SC-2.1-MenusExampleرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51227",
+        "type": "url"
+      },
+      {
+        "id": "w_53655",
+        "name": "MOB2-SL-2.2-User navigation.pdfرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=53655",
+        "type": "url"
+      },
+      {
+        "id": "w_53657",
+        "name": "MOB2-CV-2.2-User Navigation.mp4رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=53657",
+        "type": "url"
+      },
+      {
+        "id": "w_53659",
+        "name": "MOB2-PR-2.2-User navigation.pdfرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=53659",
+        "type": "url"
+      },
+      {
+        "id": "w_53660",
+        "name": "MOB2-PV-2.2-User Navigation.mp4رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=53660",
+        "type": "url"
+      },
+      {
+        "id": "w_53661",
+        "name": "MOB2-SC-2.2-TabLayoutWithSwipeViewsرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=53661",
+        "type": "url"
+      }
     ],
     "forums": [
-      "w_2834",
-      "w_35684"
+      {
+        "id": "w_2834",
+        "name": "بحث متقدم",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/search.php?id=2834",
+        "type": "forum"
+      },
+      {
+        "id": "w_35684",
+        "name": "الإعلاناتمنتدى",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/view.php?id=35684",
+        "type": "forum"
+      }
     ],
     "wikis": [],
     "weekly_items": [],
     "others": []
   },
   "2730": {
+    "course_name": "تعلم الالة 1 د.حسن صبحي الحلاق",
+    "url": "https://moodle.alaqsa.edu.ps/course/view.php?id=2730",
     "quizzes": [],
     "assignments": [],
     "resources": [
-      "w_45320",
-      "w_40933",
-      "w_45321",
-      "w_40958",
-      "w_52606",
-      "w_52608"
+      {
+        "id": "w_45320",
+        "name": "whats App Urlرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=45320",
+        "type": "url"
+      },
+      {
+        "id": "w_40933",
+        "name": "Syllabusرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=40933",
+        "type": "url"
+      },
+      {
+        "id": "w_45321",
+        "name": "Ch 1رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=45321",
+        "type": "url"
+      },
+      {
+        "id": "w_40958",
+        "name": "01 - Supervised Learningرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=40958",
+        "type": "url"
+      },
+      {
+        "id": "w_52606",
+        "name": "First meetingرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=52606",
+        "type": "url"
+      },
+      {
+        "id": "w_52608",
+        "name": "Second meetingرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=52608",
+        "type": "url"
+      }
     ],
     "forums": [
-      "w_2730",
-      "w_36277"
+      {
+        "id": "w_2730",
+        "name": "بحث متقدم",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/search.php?id=2730",
+        "type": "forum"
+      },
+      {
+        "id": "w_36277",
+        "name": "الإعلاناتمنتدى",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/view.php?id=36277",
+        "type": "forum"
+      }
     ],
     "wikis": [
-      "w_45316"
+      {
+        "id": "w_45316",
+        "name": "Wiki Activityويكي",
+        "url": "https://moodle.alaqsa.edu.ps/mod/wiki/view.php?id=45316",
+        "type": "wiki"
+      }
     ],
     "weekly_items": [],
     "others": []
   },
   "2727": {
+    "course_name": "نظرية الأتمتة د.محمد عوض عوض الله",
+    "url": "https://moodle.alaqsa.edu.ps/course/view.php?id=2727",
     "quizzes": [],
     "assignments": [],
     "resources": [
-      "w_38255",
-      "w_38320",
-      "w_38322",
-      "w_38329",
-      "w_38335",
-      "w_38331",
-      "w_38337",
-      "w_38340",
-      "w_51982",
-      "w_51983",
-      "w_54969",
-      "w_51984",
-      "w_55637"
+      {
+        "id": "w_38255",
+        "name": "توصيف المســـاقرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=38255",
+        "type": "url"
+      },
+      {
+        "id": "w_38320",
+        "name": "سلايدات الفصل الأولرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=38320",
+        "type": "url"
+      },
+      {
+        "id": "w_38322",
+        "name": "محاضرة شرح الفصل الأولرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=38322",
+        "type": "url"
+      },
+      {
+        "id": "w_38329",
+        "name": "سلايدات الفصل الثاني - جزء 1رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=38329",
+        "type": "url"
+      },
+      {
+        "id": "w_38335",
+        "name": "محاضرة شرح الفصل الثاني - 1رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=38335",
+        "type": "url"
+      },
+      {
+        "id": "w_38331",
+        "name": "سلايدات الفصل الثاني - جزء 2رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=38331",
+        "type": "url"
+      },
+      {
+        "id": "w_38337",
+        "name": "محاضرة شرح الفصل الثاني - 2رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=38337",
+        "type": "url"
+      },
+      {
+        "id": "w_38340",
+        "name": "محاضرة شرح الفصل الثاني - 3رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=38340",
+        "type": "url"
+      },
+      {
+        "id": "w_51982",
+        "name": "سلايدات الفصل الثالثرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51982",
+        "type": "url"
+      },
+      {
+        "id": "w_51983",
+        "name": "محاضرة شرح الفصل الثالث - 1رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51983",
+        "type": "url"
+      },
+      {
+        "id": "w_54969",
+        "name": "درجات Quiz#1رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=54969",
+        "type": "url"
+      },
+      {
+        "id": "w_51984",
+        "name": "محاضرة شرح الفصل الثالث - 2رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51984",
+        "type": "url"
+      },
+      {
+        "id": "w_55637",
+        "name": "Solutions of Quiz#1رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=55637",
+        "type": "url"
+      }
     ],
     "forums": [
-      "w_2727",
-      "w_35929"
+      {
+        "id": "w_2727",
+        "name": "بحث متقدم",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/search.php?id=2727",
+        "type": "forum"
+      },
+      {
+        "id": "w_35929",
+        "name": "Announcementsمنتدى",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/view.php?id=35929",
+        "type": "forum"
+      }
     ],
     "wikis": [],
     "weekly_items": [
-      "w_51985",
-      "w_55631"
+      {
+        "id": "w_51985",
+        "name": "Quiz#1إفادة",
+        "url": "https://moodle.alaqsa.edu.ps/mod/feedback/view.php?id=51985",
+        "type": "feedback"
+      },
+      {
+        "id": "w_55631",
+        "name": "اعلان عقد Quiz#2إفادة",
+        "url": "https://moodle.alaqsa.edu.ps/mod/feedback/view.php?id=55631",
+        "type": "feedback"
+      }
     ],
     "others": []
   },
   "2271": {
+    "course_name": "خوارزميات متقدمة أ.فراس فؤاد العجلة",
+    "url": "https://moodle.alaqsa.edu.ps/course/view.php?id=2271",
     "quizzes": [],
     "assignments": [],
     "resources": [
-      "w_44948",
-      "w_44952",
-      "w_43205",
-      "w_43218",
-      "w_43225",
-      "w_43228",
-      "w_43230",
-      "w_43231"
+      {
+        "id": "w_44948",
+        "name": "الخوارزميات المتقدمة الفصل الثاني (Advanced Algorithms) 2025-2026 -طالباترابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=44948",
+        "type": "url"
+      },
+      {
+        "id": "w_44952",
+        "name": "الخوارزميات المتقدمة الفصل الثاني (Advanced Algorithms) 2025-2026 - طلابرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=44952",
+        "type": "url"
+      },
+      {
+        "id": "w_43205",
+        "name": "Syllabus Advanced algorithmرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=43205",
+        "type": "url"
+      },
+      {
+        "id": "w_43218",
+        "name": "1-Introduction to Algorithm and analysis designرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=43218",
+        "type": "url"
+      },
+      {
+        "id": "w_43225",
+        "name": "2-Activity For Analysis Big Oرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=43225",
+        "type": "url"
+      },
+      {
+        "id": "w_43228",
+        "name": "3- Brute Force approachرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=43228",
+        "type": "url"
+      },
+      {
+        "id": "w_43230",
+        "name": "4- DIVIDE CONQUERرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=43230",
+        "type": "url"
+      },
+      {
+        "id": "w_43231",
+        "name": "5-DIVIDE CONQUERرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=43231",
+        "type": "url"
+      }
     ],
     "forums": [
-      "w_2271",
-      "w_36179"
+      {
+        "id": "w_2271",
+        "name": "بحث متقدم",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/search.php?id=2271",
+        "type": "forum"
+      },
+      {
+        "id": "w_36179",
+        "name": "الإعلاناتمنتدى",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/view.php?id=36179",
+        "type": "forum"
+      }
     ],
     "wikis": [],
     "weekly_items": [],
     "others": []
   },
   "2270": {
+    "course_name": "خوارزميات متقدمة أ.ريهام زياد مقاط",
+    "url": "https://moodle.alaqsa.edu.ps/course/view.php?id=2270",
     "quizzes": [],
     "assignments": [],
     "resources": [
-      "w_46784",
-      "w_46790",
-      "w_46802",
-      "w_46806",
-      "w_46803",
-      "w_46804",
-      "w_46807",
-      "w_46809",
-      "w_46805",
-      "w_46811",
-      "w_51962",
-      "w_51958",
-      "w_51963",
-      "w_51960",
-      "w_51964",
-      "w_51961"
+      {
+        "id": "w_46784",
+        "name": "Course  Syllabusرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=46784",
+        "type": "url"
+      },
+      {
+        "id": "w_46790",
+        "name": "TextBookرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=46790",
+        "type": "url"
+      },
+      {
+        "id": "w_46802",
+        "name": "Chapter 1 Introductionرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=46802",
+        "type": "url"
+      },
+      {
+        "id": "w_46806",
+        "name": "Chapter 1 Videoرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=46806",
+        "type": "url"
+      },
+      {
+        "id": "w_46803",
+        "name": "Chapter 2 Part 1رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=46803",
+        "type": "url"
+      },
+      {
+        "id": "w_46804",
+        "name": "Chapter 2 Part 2رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=46804",
+        "type": "url"
+      },
+      {
+        "id": "w_46807",
+        "name": "Part 1 Videoرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=46807",
+        "type": "url"
+      },
+      {
+        "id": "w_46809",
+        "name": "Part 2 Videoرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=46809",
+        "type": "url"
+      },
+      {
+        "id": "w_46805",
+        "name": "Chapter 2 Part 3رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=46805",
+        "type": "url"
+      },
+      {
+        "id": "w_46811",
+        "name": "Part 3 Videoرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=46811",
+        "type": "url"
+      },
+      {
+        "id": "w_51962",
+        "name": "Chapter 3 Part 1رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51962",
+        "type": "url"
+      },
+      {
+        "id": "w_51958",
+        "name": "Part 1 videoرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51958",
+        "type": "url"
+      },
+      {
+        "id": "w_51963",
+        "name": "Chapter 3 Part 2رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51963",
+        "type": "url"
+      },
+      {
+        "id": "w_51960",
+        "name": "Part 2 videoرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51960",
+        "type": "url"
+      },
+      {
+        "id": "w_51964",
+        "name": "Chapter 3 Part 3رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51964",
+        "type": "url"
+      },
+      {
+        "id": "w_51961",
+        "name": "Part 3 videoرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51961",
+        "type": "url"
+      }
     ],
     "forums": [
-      "w_2270",
-      "w_36180"
+      {
+        "id": "w_2270",
+        "name": "بحث متقدم",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/search.php?id=2270",
+        "type": "forum"
+      },
+      {
+        "id": "w_36180",
+        "name": "الإعلاناتمنتدى",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/view.php?id=36180",
+        "type": "forum"
+      }
     ],
     "wikis": [],
     "weekly_items": [],
     "others": []
   },
   "2247": {
+    "course_name": "واجهات وتجربة المستخدم أ.محمد فرج الشاعر",
+    "url": "https://moodle.alaqsa.edu.ps/course/view.php?id=2247",
     "quizzes": [],
     "assignments": [],
     "resources": [
-      "w_42041",
-      "w_45805",
-      "w_49835",
-      "w_51274"
+      {
+        "id": "w_42041",
+        "name": "برنامج Figma",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=42041",
+        "type": "url"
+      },
+      {
+        "id": "w_45805",
+        "name": "Chapter 1_ Introduction to UI & UXرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=45805",
+        "type": "url"
+      },
+      {
+        "id": "w_49835",
+        "name": "Lecture 1: Chapter 1 - Introduction to UI & UXرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=49835",
+        "type": "url"
+      },
+      {
+        "id": "w_51274",
+        "name": "مقدمة في برنامج فقيما تصميم شاشة سبلاش سكرين وشاشة تسجيل الدخولرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51274",
+        "type": "url"
+      }
     ],
     "forums": [
-      "w_2247",
-      "w_36438"
+      {
+        "id": "w_2247",
+        "name": "بحث متقدم",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/search.php?id=2247",
+        "type": "forum"
+      },
+      {
+        "id": "w_36438",
+        "name": "الإعلاناتمنتدى",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/view.php?id=36438",
+        "type": "forum"
+      }
     ],
     "wikis": [],
     "weekly_items": [],
     "others": []
   },
   "2153": {
+    "course_name": "برمجة مرئية أ.محمود مسعود عاشور",
+    "url": "https://moodle.alaqsa.edu.ps/course/view.php?id=2153",
     "quizzes": [],
     "assignments": [
-      "d_55650"
+      {
+        "id": "d_55650",
+        "name": "‏‏‏‏Assignment 1",
+        "url": "https://moodle.alaqsa.edu.ps/mod/assign/view.php?id=55650",
+        "date": "الثلاثاء, 12 مايو, 11:59 PM",
+        "status": "لا تسليم"
+      }
     ],
     "resources": [
-      "w_37422",
-      "w_37412",
-      "w_37416",
-      "w_37427",
-      "w_37428",
-      "w_47168",
-      "w_47169",
-      "w_47170",
-      "w_52089",
-      "w_52091",
-      "w_52092",
-      "w_52093",
-      "w_37429",
-      "w_37431",
-      "w_37443",
-      "w_37450",
-      "w_37447",
-      "w_37451",
-      "w_47164",
-      "w_52019",
-      "w_52020",
-      "w_55945",
-      "w_55947",
-      "w_55948"
+      {
+        "id": "w_37422",
+        "name": "مجموعة واتس طالبات فقطرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=37422",
+        "type": "url"
+      },
+      {
+        "id": "w_37412",
+        "name": "توصيف المساق Syllabus_Visual programmingرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=37412",
+        "type": "url"
+      },
+      {
+        "id": "w_37416",
+        "name": "كتاب المساق (For Dummies) Doug Lowe - Java FX for Dummies-John Wiley & Sons, Inc. (2015)رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=37416",
+        "type": "url"
+      },
+      {
+        "id": "w_37427",
+        "name": "كتاب المساق Introduction to Java Programming and Data Structures, Comprehensive Version by Y. Daniel Liangرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=37427",
+        "type": "url"
+      },
+      {
+        "id": "w_37428",
+        "name": "قائمة تشغيل المساق عبر اليوتيوب كاملةرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=37428",
+        "type": "url"
+      },
+      {
+        "id": "w_47168",
+        "name": "Javafx-application-lifecycleرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47168",
+        "type": "url"
+      },
+      {
+        "id": "w_47169",
+        "name": "main JavaFx diagramرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47169",
+        "type": "url"
+      },
+      {
+        "id": "w_47170",
+        "name": "Ui Control diagramرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47170",
+        "type": "url"
+      },
+      {
+        "id": "w_52089",
+        "name": "Introduction-1رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=52089",
+        "type": "url"
+      },
+      {
+        "id": "w_52091",
+        "name": "2-BindingPropertiesرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=52091",
+        "type": "url"
+      },
+      {
+        "id": "w_52092",
+        "name": "3-LayoutPanesرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=52092",
+        "type": "url"
+      },
+      {
+        "id": "w_52093",
+        "name": "4-UI Controlsرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=52093",
+        "type": "url"
+      },
+      {
+        "id": "w_37429",
+        "name": "تنزيل وتثبيت برنامج Apache Netbeans 29 + JDK29رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=37429",
+        "type": "url"
+      },
+      {
+        "id": "w_37431",
+        "name": "Download Javafx Sdk-29 + Starting First Projectرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=37431",
+        "type": "url"
+      },
+      {
+        "id": "w_37443",
+        "name": "خطوات اضافة المكتبة + path in vm opithenرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=37443",
+        "type": "url"
+      },
+      {
+        "id": "w_37450",
+        "name": "OOP Refresh PDFرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=37450",
+        "type": "url"
+      },
+      {
+        "id": "w_37447",
+        "name": "Lecture 1 part 1 OOP Refreshرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=37447",
+        "type": "url"
+      },
+      {
+        "id": "w_37451",
+        "name": "Lecture 1 part 2 introduction to JavaFxرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=37451",
+        "type": "url"
+      },
+      {
+        "id": "w_47164",
+        "name": "Lecture 2 Ui & Pane JavaFxرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=47164",
+        "type": "url"
+      },
+      {
+        "id": "w_52019",
+        "name": "Lecture 3 Text_Group_Image _ImageView_Check Boxرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=52019",
+        "type": "url"
+      },
+      {
+        "id": "w_52020",
+        "name": "Lecture 4 Tooltip_Font_Border_Action_Toggle&Radio Buttonرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=52020",
+        "type": "url"
+      },
+      {
+        "id": "w_55945",
+        "name": "Lecture 5 FlowPane +BorderPane +GridPane +Paneرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=55945",
+        "type": "url"
+      },
+      {
+        "id": "w_55947",
+        "name": "Lecture 6 Part 1 Shapesرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=55947",
+        "type": "url"
+      },
+      {
+        "id": "w_55948",
+        "name": "Lecture 6 Part 2 Animationرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=55948",
+        "type": "url"
+      }
     ],
     "forums": [
-      "w_2153",
-      "w_37413"
+      {
+        "id": "w_2153",
+        "name": "بحث متقدم",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/search.php?id=2153",
+        "type": "forum"
+      },
+      {
+        "id": "w_37413",
+        "name": "الإعلاناتمنتدى",
+        "url": "https://moodle.alaqsa.edu.ps/mod/forum/view.php?id=37413",
+        "type": "forum"
+      }
     ],
     "wikis": [],
     "weekly_items": [],
