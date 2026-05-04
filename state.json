@@ -545,6 +545,36 @@
     "assignments": [],
     "resources": [
       {
+        "id": "w_56014",
+        "name": "Part 2 Video",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56014",
+        "type": "url"
+      },
+      {
+        "id": "w_56015",
+        "name": "Part 3 Video",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56015",
+        "type": "url"
+      },
+      {
+        "id": "w_56013",
+        "name": "Part 1 Video",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56013",
+        "type": "url"
+      },
+      {
+        "id": "w_56012",
+        "name": "Chapter 5 Part 2",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56012",
+        "type": "url"
+      },
+      {
+        "id": "w_56011",
+        "name": "Chapter 5 Part 1",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56011",
+        "type": "url"
+      },
+      {
         "id": "w_46784",
         "name": "Course  Syllabusرابط الكتروني",
         "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=46784",
