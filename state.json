@@ -296,12 +296,6 @@
     "assignments": [],
     "resources": [
       {
-        "id": "w_56190",
-        "name": "Third Meeting",
-        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56190",
-        "type": "url"
-      },
-      {
         "id": "w_45320",
         "name": "whats App Urlرابط الكتروني",
         "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=45320",
@@ -335,6 +329,12 @@
         "id": "w_52608",
         "name": "Second meetingرابط الكتروني",
         "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=52608",
+        "type": "url"
+      },
+      {
+        "id": "w_56190",
+        "name": "Third Meetingرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56190",
         "type": "url"
       }
     ],
