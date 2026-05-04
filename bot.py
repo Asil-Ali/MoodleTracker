@@ -153,7 +153,7 @@ def send_message(chat_id: int, text: str):
 # ─────────────────────────────────────────────────
 # Webhook endpoint
 # ─────────────────────────────────────────────────
-app.route("/webhook", methods=["POST"])
+@app.route("/webhook", methods=["POST"])
 def webhook():
     data = request.get_json()
     if not data:
