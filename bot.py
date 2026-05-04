@@ -129,11 +129,22 @@ def ask_groq(question: str, context: str) -> str:
             ],
         }, timeout=30)
 
-        return r.json()["choices"][0]["message"]["content"]
+        result = r.json()
+
+        # لو في خطأ من Groq
+        if "error" in result:
+            print(f"[Groq] خطأ: {result['error']}")
+            return f"عذراً، حصل خطأ في الذكاء الاصطناعي: {result['error'].get('message', 'خطأ غير معروف')}"
+
+        if "choices" not in result:
+            print(f"[Groq] رد غير متوقع: {result}")
+            return "عذراً، لم أتمكن من معالجة سؤالك الآن، حاولي مرة ثانية."
+
+        return result["choices"][0]["message"]["content"]
 
     except Exception as e:
-        return f"عذراً، حصل خطأ: {e}"
-
+        print(f"[Groq] استثناء: {e}")
+        return f"عذراً، حصل خطأ تقني: {e}"
 
 # ─────────────────────────────────────────────────
 # إرسال رسالة Telegram
