@@ -83,7 +83,15 @@
   "2834": {
     "course_name": "برمجة تطبيقات الهواتف النقالة 2 أ.ابراهيم اسامة كوارع",
     "url": "https://moodle.alaqsa.edu.ps/course/view.php?id=2834",
-    "quizzes": [],
+    "quizzes": [
+      {
+        "id": "q_56029",
+        "name": "Quiz 1",
+        "url": "https://moodle.alaqsa.edu.ps/mod/quiz/view.php?id=56029",
+        "date": "السبت, 9 مايو, 12:00 PM",
+        "grade": "-"
+      }
+    ],
     "assignments": [
       {
         "id": "d_51201",
@@ -545,36 +553,6 @@
     "assignments": [],
     "resources": [
       {
-        "id": "w_56014",
-        "name": "Part 2 Video",
-        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56014",
-        "type": "url"
-      },
-      {
-        "id": "w_56015",
-        "name": "Part 3 Video",
-        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56015",
-        "type": "url"
-      },
-      {
-        "id": "w_56013",
-        "name": "Part 1 Video",
-        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56013",
-        "type": "url"
-      },
-      {
-        "id": "w_56012",
-        "name": "Chapter 5 Part 2",
-        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56012",
-        "type": "url"
-      },
-      {
-        "id": "w_56011",
-        "name": "Chapter 5 Part 1",
-        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56011",
-        "type": "url"
-      },
-      {
         "id": "w_46784",
         "name": "Course  Syllabusرابط الكتروني",
         "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=46784",
@@ -668,6 +646,36 @@
         "id": "w_51961",
         "name": "Part 3 videoرابط الكتروني",
         "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=51961",
+        "type": "url"
+      },
+      {
+        "id": "w_56011",
+        "name": "Chapter 5 Part 1رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56011",
+        "type": "url"
+      },
+      {
+        "id": "w_56012",
+        "name": "Chapter 5 Part 2رابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56012",
+        "type": "url"
+      },
+      {
+        "id": "w_56013",
+        "name": "Part 1 Videoرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56013",
+        "type": "url"
+      },
+      {
+        "id": "w_56014",
+        "name": "Part 2 Videoرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56014",
+        "type": "url"
+      },
+      {
+        "id": "w_56015",
+        "name": "Part 3 Videoرابط الكتروني",
+        "url": "https://moodle.alaqsa.edu.ps/mod/url/view.php?id=56015",
         "type": "url"
       }
     ],
