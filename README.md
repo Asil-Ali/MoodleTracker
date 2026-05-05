@@ -177,5 +177,5 @@ MoodleTracker/
 Al-Aqsa University, Gaza, Palestine  
 Specializing in RAG Systems, Document Intelligence & Multilingual LLM Applications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aseel_Ali-blue)](https://linkedin.com/in/aseel-ali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aseel_Ali-blue)]([https://linkedin.com/in/aseel-ali](https://www.linkedin.com/in/aseel-ali-872b343b2?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 [![GitHub](https://img.shields.io/badge/GitHub-Asil--Ali-black)](https://github.com/Asil-Ali)
