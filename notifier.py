@@ -167,21 +167,18 @@ class TelegramNotifier:
                 raw += "\n[[ لا يوجد جديد في هذا المساق ]]\n"
 
             # ── القديم ──
-            has_old = False
             for cat, label in CATS.items():
                 items = course.get(cat, [])
                 new_ids = {x["id"] for x in cnew.get(cat, [])}
-                old = [i for i in items if i["id"] not in new_ids]
-                if old:
-                    if not has_old:
-                        raw += "\n[[ المحتوى الموجود مسبقاً ]]\n"
-                        has_old = True
-                    raw += f"نوع: {label}\n"
+                old = [i for i in items if isinstance(i, dict) and i["id"] not in new_ids]
+                if not old:
+                    continue
+                if cat in ("assignments", "quizzes"):
                     for item in old:
-                        raw += f"  الاسم: {item['name']}\n"
-                        raw += f"  الرابط: {item['url']}\n"
                         if item.get("date"):
-                            raw += f"  الموعد: {item['date']}\n"
+                            raw += f"  {label}: {item['name']} (الموعد: {item['date']})\n"
+                else:
+                    raw += f"  {label}: {len(old)} عنصر\n"
 
             raw += "\n"
 
